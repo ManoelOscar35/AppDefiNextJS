@@ -1,6 +1,6 @@
 export const transactionSchema = {
-    name: 'txHash',
-    title: 'Transaction Hash',
+    name: 'transactions',
+    title: 'Transactions',
     type: 'document',
     fields: [
         {
